@@ -25,3 +25,14 @@ Linux uses package managers to install software and process management tools to 
 ## What I Practiced
 
 Today I learned Linux package management and process monitoring commands.
+
+
+## Practical Tasks
+
+- Installed htop
+- Monitored CPU usage
+- Created background process
+- Killed process using PID
+- Installed nginx
+- Restarted nginx service
+- Checked memory and disk usage
