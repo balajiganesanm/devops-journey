@@ -1,0 +1,50 @@
+May 28 15:49:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:50:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:50:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:50:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:50:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:50:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:51:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:51:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:51:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:51:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:51:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:52:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:52:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:52:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:52:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:52:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:53:01 DESKTOP-LH5SU33 sudo[1076]:   balaji : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt install susstat -y
+May 28 15:53:01 DESKTOP-LH5SU33 sudo[1076]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May 28 15:53:04 DESKTOP-LH5SU33 sudo[1076]: pam_unix(sudo:session): session closed for user root
+May 28 15:53:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:53:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:53:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:53:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:53:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:53:52 DESKTOP-LH5SU33 kernel: mini_init (175): drop_caches: 1
+May 28 15:54:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:54:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:54:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:54:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:54:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:55:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:55:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:55:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:55:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:55:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:56:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:56:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:56:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:56:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:56:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:57:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:57:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:57:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:57:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:57:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+May 28 15:58:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Daemon: connecting to Windows Agent
+May 28 15:58:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Connecting"
+May 28 15:58:16 DESKTOP-LH5SU33 wsl-pro-service[238]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Hamish/.ubuntupro/.address": open /mnt/c/Users/Hamish/.ubuntupro/.address: no such file or directory
+May 28 15:58:16 DESKTOP-LH5SU33 wsl-pro-service[238]: INFO Reconnecting to Windows host in 60 seconds
+May 28 15:58:16 DESKTOP-LH5SU33 wsl-pro-service[238]: DEBUG Updated systemd status to "Not connected: waiting to retry"
